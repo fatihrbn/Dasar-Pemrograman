@@ -1,0 +1,13 @@
+C:\Users\LENOVO\Desktop\Dasar Pemrograman\bin\Debug\netcoreapp3.1\Dasar Pemrograman.exe
+C:\Users\LENOVO\Desktop\Dasar Pemrograman\bin\Debug\netcoreapp3.1\Dasar Pemrograman.deps.json
+C:\Users\LENOVO\Desktop\Dasar Pemrograman\bin\Debug\netcoreapp3.1\Dasar Pemrograman.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Dasar Pemrograman\bin\Debug\netcoreapp3.1\Dasar Pemrograman.runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\Dasar Pemrograman\bin\Debug\netcoreapp3.1\Dasar Pemrograman.dll
+C:\Users\LENOVO\Desktop\Dasar Pemrograman\bin\Debug\netcoreapp3.1\Dasar Pemrograman.pdb
+C:\Users\LENOVO\Desktop\Dasar Pemrograman\obj\Debug\netcoreapp3.1\Dasar Pemrograman.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\Dasar Pemrograman\obj\Debug\netcoreapp3.1\Dasar Pemrograman.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Dasar Pemrograman\obj\Debug\netcoreapp3.1\Dasar Pemrograman.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Dasar Pemrograman\obj\Debug\netcoreapp3.1\Dasar Pemrograman.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Dasar Pemrograman\obj\Debug\netcoreapp3.1\Dasar Pemrograman.dll
+C:\Users\LENOVO\Desktop\Dasar Pemrograman\obj\Debug\netcoreapp3.1\Dasar Pemrograman.pdb
+C:\Users\LENOVO\Desktop\Dasar Pemrograman\obj\Debug\netcoreapp3.1\Dasar Pemrograman.genruntimeconfig.cache
