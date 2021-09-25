@@ -15,6 +15,8 @@ namespace Dasar_Pemrograman
         {
             Pembukaan(level);
 
+            // Inisialisasi dan Deklarasi variabel
+            // Menggunakan Random class untuk mengacak nilai variabel
             Random rng = new Random();
             int codeA = rng.Next(level);
             int codeB = rng.Next(level);
@@ -27,20 +29,22 @@ namespace Dasar_Pemrograman
             Console.WriteLine("- Jika ditambahkan hasilnya " + hasilTambah);
             Console.WriteLine("- Jika dikalikan hasilnya " + hasilKali);
             Console.WriteLine("");
+            
+            // User input
             Console.Write("Enter Code A: ");
             string tebakanA = Console.ReadLine();
             Console.Write("Enter Code B: ");
             string tebakanB = Console.ReadLine();
             Console.Write("Enter Code C: ");
             string tebakanC = Console.ReadLine();
-
             Console.WriteLine("Tebakan anda " + tebakanA + " " + tebakanB + " " + tebakanC + " ?");
-
+            
+            // Convert user input (string) to (int)
             int tebakA = Convert.ToInt32(tebakanA);
             int tebakB = Convert.ToInt32(tebakanB);
             int tebakC = Convert.ToInt32(tebakanC);
-
-            if(tebakA == codeA && tebakB == codeB && tebakC == codeC)
+            
+            if (tebakA == codeA && tebakB == codeB && tebakC == codeC)
             {
                 Console.WriteLine("Tebakan anda benar");
                 Console.WriteLine("");
@@ -52,23 +56,20 @@ namespace Dasar_Pemrograman
                 Console.WriteLine("");
                 return false;
             }
-
         }
 
         static void Main(string[] args)
         {
             int level = 1;
             int maxLevel = 5;
-            while(level <= maxLevel)
+            while (level <= maxLevel)
             {
-                bool GameOver = MulaiMain(level);
-
-                if(GameOver)
+                bool bGameOver = MulaiMain(level);
+                if (bGameOver)
                 {
                     level++;
                 }
             }
-
             Console.WriteLine("Selamat anda sudah mendapatkan semua kode rahasia, segera laporkan ke pusat komando ASAP");
         }
     }
